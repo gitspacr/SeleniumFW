@@ -1,0 +1,9 @@
+com\FW\rough\TestProperties.class
+com\FW\testcases\AddNewCustomer.class
+com\FW\testcases\BankManagerLogin.class
+com\FW\testbase\TestBase.class
+com\FW\TestData\ExcelUtility.class
+com\FW\utilities\ExtentReport.class
+com\FW\utilities\CommonUtils.class
+com\FW\Listerners\TestListeners.class
+com\FW\testcases\OpenAccount.class

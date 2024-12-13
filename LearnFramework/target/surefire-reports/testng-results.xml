@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login successfull]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_23_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_23_IST_2024.jpg><img src=Fri_Dec_13_13_15_23_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_34_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_34_IST_2024.jpg><img src=Fri_Dec_13_13_15_34_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_43_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_43_IST_2024.jpg><img src=Fri_Dec_13_13_15_43_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_53_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_53_IST_2024.jpg><img src=Fri_Dec_13_13_15_53_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_02_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_02_IST_2024.jpg><img src=Fri_Dec_13_13_16_02_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_08_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_08_IST_2024.jpg><img src=Fri_Dec_13_13_16_08_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_13_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_13_IST_2024.jpg><img src=Fri_Dec_13_13_16_13_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_19_IST_2024.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_19_IST_2024.jpg><img src=Fri_Dec_13_13_16_19_IST_2024.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-13T07:45:22Z" name="Suite" finished-at="2024-12-13T07:46:19Z" duration-ms="56106">
+    <groups>
+    </groups>
+    <test started-at="2024-12-13T07:45:22Z" name="BankManagerLogin" finished-at="2024-12-13T07:45:23Z" duration-ms="440">
+      <class name="com.FW.testcases.BankManagerLogin">
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.FW.testcases.BankManagerLogin@3113a37]" started-at="2024-12-13T07:45:22Z" name="loginAsBankManager" finished-at="2024-12-13T07:45:23Z" duration-ms="147" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfull]]>
+            </line>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_23_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_23_IST_2024.jpg><img src=Fri_Dec_13_13_15_23_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+      </class> <!-- com.FW.testcases.BankManagerLogin -->
+    </test> <!-- BankManagerLogin -->
+    <test started-at="2024-12-13T07:45:23Z" name="AddNewCustomer" finished-at="2024-12-13T07:46:02Z" duration-ms="39247">
+      <class name="com.FW.testcases.AddNewCustomer">
+        <test-method signature="addCustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.AddNewCustomer@27f9e982]" started-at="2024-12-13T07:45:24Z" name="addCustomer" data-provider="supplyData" finished-at="2024-12-13T07:45:34Z" duration-ms="9535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500059]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_34_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_34_IST_2024.jpg><img src=Fri_Dec_13_13_15_34_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.AddNewCustomer@27f9e982]" started-at="2024-12-13T07:45:34Z" name="addCustomer" data-provider="supplyData" finished-at="2024-12-13T07:45:43Z" duration-ms="9384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scott]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pip]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500051]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_43_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_43_IST_2024.jpg><img src=Fri_Dec_13_13_15_43_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.AddNewCustomer@27f9e982]" started-at="2024-12-13T07:45:43Z" name="addCustomer" data-provider="supplyData" finished-at="2024-12-13T07:45:52Z" duration-ms="9296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Berry]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500052]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_53_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_15_53_IST_2024.jpg><img src=Fri_Dec_13_13_15_53_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.AddNewCustomer@27f9e982]" started-at="2024-12-13T07:45:53Z" name="addCustomer" data-provider="supplyData" finished-at="2024-12-13T07:46:02Z" duration-ms="9466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pranitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nuvvula]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500089]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_02_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_02_IST_2024.jpg><img src=Fri_Dec_13_13_16_02_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- com.FW.testcases.AddNewCustomer -->
+    </test> <!-- AddNewCustomer -->
+    <test started-at="2024-12-13T07:46:02Z" name="OpenAccount" finished-at="2024-12-13T07:46:19Z" duration-ms="16408">
+      <class name="com.FW.testcases.OpenAccount">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.FW.testcases.OpenAccount@29caf222]" started-at="2024-12-13T07:45:18Z" name="browserLaunch" finished-at="2024-12-13T07:45:22Z" duration-ms="4407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="openAccountforNewCustomer(java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.OpenAccount@29caf222]" started-at="2024-12-13T07:46:02Z" name="openAccountforNewCustomer" data-provider="supplyData" finished-at="2024-12-13T07:46:08Z" duration-ms="5326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_08_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_08_IST_2024.jpg><img src=Fri_Dec_13_13_16_08_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccountforNewCustomer -->
+        <test-method signature="openAccountforNewCustomer(java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.OpenAccount@29caf222]" started-at="2024-12-13T07:46:08Z" name="openAccountforNewCustomer" data-provider="supplyData" finished-at="2024-12-13T07:46:13Z" duration-ms="5281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hermoine Granger]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pound]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_13_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_13_IST_2024.jpg><img src=Fri_Dec_13_13_16_13_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccountforNewCustomer -->
+        <test-method signature="openAccountforNewCustomer(java.lang.String, java.lang.String)[pri:0, instance:com.FW.testcases.OpenAccount@29caf222]" started-at="2024-12-13T07:46:13Z" name="openAccountforNewCustomer" data-provider="supplyData" finished-at="2024-12-13T07:46:18Z" duration-ms="5358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ron Weasly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_19_IST_2024.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Fri_Dec_13_13_16_19_IST_2024.jpg><img src=Fri_Dec_13_13_16_19_IST_2024.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccountforNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FW.testcases.OpenAccount@29caf222]" started-at="2024-12-13T07:46:19Z" name="tearDown" finished-at="2024-12-13T07:46:19Z" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FW.testcases.OpenAccount -->
+    </test> <!-- OpenAccount -->
+  </suite> <!-- Suite -->
+</testng-results>
