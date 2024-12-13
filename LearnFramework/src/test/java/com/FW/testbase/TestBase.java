@@ -42,6 +42,7 @@ public class TestBase {
 	public static ExtentReports report=ExtentReport.getInstance();
 	public static ExtentTest test;
 	public static ExcelUtility excel=new ExcelUtility(".\\TestData\\TestDataSheet.xlsx");
+	public String browser;
 	
 	@BeforeSuite
 	public void browserLaunch() throws IOException {
@@ -55,6 +56,14 @@ public class TestBase {
 			prop_or.load(fisOR);
 			log.debug("loads OR properties file");
 		}
+		
+		if(System.getenv("browser")!=null && !System.getenv("brower").isEmpty()) {
+			browser=System.getenv("browser");
+		}else {
+			browser=prop.getProperty("browser");
+		}
+		
+		prop.setProperty("browser", browser);
 		
 		if (prop.getProperty("browser").equalsIgnoreCase("chrome")) {
 			
